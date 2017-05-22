@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.sol{
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background-color: yellow;
+}
+.pasto{
+	width: 100%;
+	height: 100px;
+	background-color: green;
+	margin-top: 500px;
+	position: relative;
+
+}
+#techo{
+	
+	width: 200px;
+	height: 100px;
+}
