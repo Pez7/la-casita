@@ -56,3 +56,25 @@ body{
     left: 71%;
     margin-top: 177px;
 }
+#humo2{
+	background-color: gray;
+    width: 20px;
+    height: 20px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    position: absolute;
+    left: 72%;
+    margin-top: 159px;
+}
+#humo3{
+	background-color: gray;
+    width: 20px;
+    height: 20px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    position: absolute;
+    left: 73%;
+    margin-top: 143px;
+}
