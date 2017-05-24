@@ -1,6 +1,7 @@
 body{
 	margin:0;
 	padding: 0;
+    background-color: #02CBFD
 }
 .sol{
 	width: 100px;
@@ -94,5 +95,15 @@ body{
     left: 69%;
     margin-top: 309px;
 }
-
-
+.fa{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 48px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    left: 16%;
+    top: 13px;
+    color: rebeccapurple;
+}
